@@ -1,0 +1,25 @@
+*{font-family: "Rubik", "sans-serif";}
+
+div {
+    text-align: center;
+    border: solid;
+    /*margin-top: 15px;*/
+}
+
+h1 {
+    color: rgb(54, 30, 192);
+    font-size: 2.3em;
+}
+
+p { font-size: 1.5em; }
+
+li {
+    list-style: none;
+    font-size: 20px;
+    text-align: left;
+}
+
+.container{
+    width: 85%;
+    margin: auto;
+}
