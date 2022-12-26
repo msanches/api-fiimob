@@ -1,8 +1,3 @@
-#https://medium.com/analytics-vidhya/flask-hello-world-47ca1ccd0d30
-#https://stackoverflow.com/questions/41804507/h14-error-in-heroku-no-web-processes-running
-#https://medium.com/@speedforcerun/heroku-deploy-no-web-process-running-6f6b4059765d
-#Para impedir que o app entre em modo sleep no heroku: http://kaffeine.herokuapp.com/
-
 from flask import Flask, jsonify, render_template
 import fii
 
